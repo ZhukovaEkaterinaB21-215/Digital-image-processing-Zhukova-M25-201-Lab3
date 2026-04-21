@@ -1,0 +1,36 @@
+Исходное изображение: 1280x720 (8 bpp)
+--- Скос: kx=0.5, ky=0 ---
+Метод        Время (мс)       Размер            Файл
+Nearest           95.64         1640x720        skew_50_0_nearest.png
+Bilinear          319.84        1640x720        skew_50_0_bilinear.png
+Bicubic           1468.03       1640x720        skew_50_0_bicubic.png
+
+--- Скос: kx=0.00, ky=0.50 ---
+Метод        Время (мс)       Размер            Файл
+Nearest           94.91         1280x1360       skew_0_50_nearest.png
+Bilinear          188.59        1280x1360       skew_0_50_bilinear.png
+Bicubic           1148.07       1280x1360       skew_0_50_bicubic.png
+
+--- Скос: kx=0.25, ky=0.25 ---
+Метод        Время (мс)       Размер            Файл
+Nearest           68.08         1460x1040       skew_25_25_nearest.png
+Bilinear          181.51        1460x1040       skew_25_25_bilinear.png
+Bicubic           1093.55       1460x1040       skew_25_25_bicubic.png
+
+--- Скос: kx=0.90, ky=0.01 ---
+Метод        Время (мс)       Размер            Файл
+Nearest           66.88         1928x733        skew_90_1_nearest.png
+Bilinear          150.37        1928x733        skew_90_1_bilinear.png
+Bicubic           966.64        1928x733        skew_90_1_bicubic.png
+
+--- Скос: kx=0.30, ky=0.30 ---
+Метод        Время (мс)       Размер            Файл
+Nearest           70.16         1496x1104       skew_30_30_nearest.png
+Bilinear          137.53        1496x1104       skew_30_30_bilinear.png
+Bicubic           945.28        1496x1104       skew_30_30_bicubic.png
+
+--- Скос: kx=0.00, ky=0.00 ---
+Метод        Время (мс)       Размер            Файл
+Nearest           40.21         1280x720        skew_0_0_nearest.png
+Bilinear          101.65        1280x720        skew_0_0_bilinear.png
+Bicubic           594.90        1280x720        skew_0_0_bicubic.png

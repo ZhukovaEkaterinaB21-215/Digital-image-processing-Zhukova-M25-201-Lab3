@@ -1,0 +1,36 @@
+Исходное изображение: 1280x720 (8 bpp)
+--- Угол: 0°, Масштаб: x2 ---
+Метод        	Время (мс)	  Размер          Файл
+Nearest           246.62        2560x1440       rotscale_0_20_nearest.png
+Bilinear          791.10        2560x1440       rotscale_0_20_bilinear.png
+Bicubic           4367.41       2560x1440       rotscale_0_20_bicubic.png
+
+--- Угол: 0.00°, Масштаб: x0.30 ---
+Метод        	Время (мс)	  Размер          Файл
+Nearest           6.81          384x216         rotscale_0_3_nearest.png
+Bilinear          13.57         384x216         rotscale_0_3_bilinear.png
+Bicubic           75.95         384x216         rotscale_0_3_bicubic.png
+
+--- Угол: 45.00°, Масштаб: x3.00 ---
+Метод        	Время (мс)	  Размер          Файл
+Nearest           977.19        4243x4243       rotscale_45_30_nearest.png
+Bilinear          2194.00       4243x4243       rotscale_45_30_bilinear.png
+Bicubic           13646.92      4243x4243       rotscale_45_30_bicubic.png
+
+--- Угол: 45.00°, Масштаб: x0.20 ---
+Метод        	Время (мс) 	  Размер          Файл
+Nearest           4.41          283x283         rotscale_45_2_nearest.png
+Bilinear          10.11         283x283         rotscale_45_2_bilinear.png
+Bicubic           60.11         283x283         rotscale_45_2_bicubic.png
+
+--- Угол: 90.00°, Масштаб: x1.50 ---
+Метод        	Время (мс)	  Размер          Файл
+Nearest           160.84        1080x1920       rotscale_90_15_nearest.png
+Bilinear          345.09        1080x1920       rotscale_90_15_bilinear.png
+Bicubic           1880.69       1080x1920       rotscale_90_15_bicubic.png
+
+--- Угол: 90.00°, Масштаб: x0.50 ---
+Метод        	Время (мс)	  Размер          Файл
+Nearest           15.53         360x640         rotscale_90_5_nearest.png
+Bilinear          38.04         360x640         rotscale_90_5_bilinear.png
+Bicubic           205.30        360x640         rotscale_90_5_bicubic.png

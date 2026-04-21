@@ -1,0 +1,72 @@
+Исходное изображение: 1280x720 (8 bpp)
+--- Угол поворота: -360° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           67.35         1281x721      22.63           rot_-360_nearest.png
+Bilinear          183.58        1281x721      27.30           rot_-360_bilinear.png
+Bicubic           913.25        1281x721      29.61           rot_-360_bicubic.png
+
+--- Угол поворота: -180.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           43.20         1280x721      29.31           rot_-180_nearest.png
+Bilinear          124.62        1280x721      28.46           rot_-180_bilinear.png
+Bicubic           731.07        1280x721      30.20           rot_-180_bicubic.png
+
+--- Угол поворота: -90.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           39.59         721x1280      21.64           rot_-90_nearest.png
+Bilinear          102.40        721x1280      28.70           rot_-90_bilinear.png
+Bicubic           744.84        721x1280      30.55           rot_-90_bicubic.png
+
+--- Угол поворота: -45.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           69.74         1415x1415     29.62           rot_-45_nearest.png
+Bilinear          174.72        1415x1415     29.77           rot_-45_bilinear.png
+Bicubic           1104.41       1415x1415     33.27           rot_-45_bicubic.png
+
+--- Угол поворота: 0.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           44.87         1280x720      10000000000.00  rot_0_nearest.png
+Bilinear          105.84        1280x720      10000000000.00  rot_0_bilinear.png
+Bicubic           624.74        1280x720      10000000000.00  rot_0_bicubic.png
+
+--- Угол поворота: 13.10° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           56.69         1410x992      25.26           rot_13_nearest.png
+Bilinear          136.38        1410x992      27.41           rot_13_bilinear.png
+Bicubic           857.23        1410x992      27.96           rot_13_bicubic.png
+
+--- Угол поворота: 30.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           62.70         1469x1264     24.92           rot_30_nearest.png
+Bilinear          169.02        1469x1264     27.44           rot_30_bilinear.png
+Bicubic           1056.35       1469x1264     27.98           rot_30_bicubic.png
+
+--- Угол поворота: 45.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           72.94         1415x1415     29.61           rot_45_nearest.png
+Bilinear          178.49        1415x1415     29.77           rot_45_bilinear.png
+Bicubic           1091.47       1415x1415     33.27           rot_45_bicubic.png
+
+--- Угол поворота: 69.90° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           60.00         1117x1450     31.09           rot_69_nearest.png
+Bilinear          148.75        1117x1450     29.68           rot_69_bilinear.png
+Bicubic           936.45        1117x1450     33.35           rot_69_bicubic.png
+
+--- Угол поворота: 90.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           39.87         721x1280      30.49           rot_90_nearest.png
+Bilinear          107.41        721x1280      29.33           rot_90_bilinear.png
+Bicubic           626.67        721x1280      31.56           rot_90_bicubic.png
+
+--- Угол поворота: 180.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           39.48         1280x721      30.23           rot_180_nearest.png
+Bilinear          109.22        1280x721      28.46           rot_180_bilinear.png
+Bicubic           623.50        1280x721      30.20           rot_180_bicubic.png
+
+--- Угол поворота: 360.00° ---
+Метод        	Время(мс)     Размер        PSNR            Файл
+Nearest           45.14         1281x721      22.62           rot_360_nearest.png
+Bilinear          99.78         1281x721      27.30           rot_360_bilinear.png
+Bicubic           632.13        1281x721      29.61           rot_360_bicubic.png
